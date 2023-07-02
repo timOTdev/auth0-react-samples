@@ -1,4 +1,6 @@
-# Auth0 React Samples
+# 0153_auth0_react_samples
+
+## Auth0 React Samples
 
 [![CircleCI](https://circleci.com/gh/auth0-samples/auth0-react-samples.svg?style=svg)](https://circleci.com/gh/auth0-samples/auth0-react-samples)
 
